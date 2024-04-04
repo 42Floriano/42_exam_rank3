@@ -1,4 +1,4 @@
-## 1 Excepted File
+## Excepted File
 
 :one: ft_printf.c
 
