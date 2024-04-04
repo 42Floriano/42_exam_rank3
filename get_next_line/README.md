@@ -1,4 +1,4 @@
-## 2 Excepted Files
+## Excepted Files
 
 :one: get_next_line.c 
 
